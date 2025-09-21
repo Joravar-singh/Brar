@@ -13,7 +13,7 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "1105194474649608";
-const LOCKED_GROUP_NAME = "NIXK+LOV3 DI MAA DA THOKU JASSA HERE 💞🐻‍❄️";
+const LOCKED_GROUP_NAME = "LOVE GIYANI DI MAA DA YAR JAXXU";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
